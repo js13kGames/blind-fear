@@ -1,4 +1,8 @@
 ---
+genres:
+  - horror
+  - shooter
+  - action
 directors_cut: https://zyxplay.github.io/js13k-2024/
 video: https://youtu.be/kZmRYhNAcEw
 # See github.com/js13kGames/hello-world for supported frontmatter
